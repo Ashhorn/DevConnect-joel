@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031939974646",
+    "project_id": "mobapp-43266",
+    "storage_bucket": "mobapp-43266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031939974646:android:7e7ac3809bed0dc4c793d7",
+        "android_client_info": {
+          "package_name": "com.companyname.devconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rt6m0LVTfP32UYdHr8ph57SR7yXQluk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
